@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiScreenActivity</string>
+    <string name="editTextName">Enter Name</string>
+</resources>
